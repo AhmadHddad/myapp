@@ -1,16 +1,30 @@
 {
   "files": {
-    "main.css": "/myApp/static/css/main.d8c61a38.chunk.css",
-    "main.js": "/myApp/static/js/main.d8ecae58.chunk.js",
-    "main.js.map": "/myApp/static/js/main.d8ecae58.chunk.js.map",
+    "main.css": "/myApp/static/css/main.511c0930.chunk.css",
+    "main.js": "/myApp/static/js/main.f93b97f5.chunk.js",
+    "main.js.map": "/myApp/static/js/main.f93b97f5.chunk.js.map",
     "runtime-main.js": "/myApp/static/js/runtime-main.6afef636.js",
     "runtime-main.js.map": "/myApp/static/js/runtime-main.6afef636.js.map",
-    "static/js/2.dfbf412a.chunk.js": "/myApp/static/js/2.dfbf412a.chunk.js",
-    "static/js/2.dfbf412a.chunk.js.map": "/myApp/static/js/2.dfbf412a.chunk.js.map",
+    "static/js/2.9302b250.chunk.js": "/myApp/static/js/2.9302b250.chunk.js",
+    "static/js/2.9302b250.chunk.js.map": "/myApp/static/js/2.9302b250.chunk.js.map",
     "index.html": "/myApp/index.html",
-    "precache-manifest.b3a5774fbdd38832903c0fa5a0ee6699.js": "/myApp/precache-manifest.b3a5774fbdd38832903c0fa5a0ee6699.js",
+    "precache-manifest.a40d4e740baabd50c156fd0d4d31c0e0.js": "/myApp/precache-manifest.a40d4e740baabd50c156fd0d4d31c0e0.js",
     "service-worker.js": "/myApp/service-worker.js",
-    "static/css/main.d8c61a38.chunk.css.map": "/myApp/static/css/main.d8c61a38.chunk.css.map",
-    "static/media/me.png": "/myApp/static/media/me.85c9f4fe.png"
+    "static/css/main.511c0930.chunk.css.map": "/myApp/static/css/main.511c0930.chunk.css.map",
+    "static/media/1.png": "/myApp/static/media/1.a988be0e.png",
+    "static/media/2.png": "/myApp/static/media/2.a73553da.png",
+    "static/media/adobephotoshop.svg": "/myApp/static/media/adobephotoshop.15669929.svg",
+    "static/media/angular.svg": "/myApp/static/media/angular.a243d881.svg",
+    "static/media/arrow.svg": "/myApp/static/media/arrow.a460ac09.svg",
+    "static/media/css3.svg": "/myApp/static/media/css3.b675af60.svg",
+    "static/media/dot-net.svg": "/myApp/static/media/dot-net.d47762c0.svg",
+    "static/media/firebase.svg": "/myApp/static/media/firebase.df8bf7ad.svg",
+    "static/media/github.svg": "/myApp/static/media/github.617870e4.svg",
+    "static/media/html5.svg": "/myApp/static/media/html5.3056bf2f.svg",
+    "static/media/javascript.svg": "/myApp/static/media/javascript.1f606957.svg",
+    "static/media/me.png": "/myApp/static/media/me.85c9f4fe.png",
+    "static/media/mysql.svg": "/myApp/static/media/mysql.27b0eaaa.svg",
+    "static/media/php.svg": "/myApp/static/media/php.a9f29af4.svg",
+    "static/media/react.svg": "/myApp/static/media/react.092e0882.svg"
   }
 }
