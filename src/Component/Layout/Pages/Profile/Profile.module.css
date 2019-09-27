@@ -1,3 +1,17 @@
+
+.Layout{
+    background: linear-gradient(220.9deg, #23C9FF 30.49%, #00487C 96.21%);
+    box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.11);
+    width: 672px;
+    height: 392px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+
+
 .myImg {
     padding-top: 2%;
     padding-left: 30px;
@@ -15,20 +29,22 @@
 .h1 {
     text-align: center;
     font-family: "Lato Thin";
-    color: #D1E8E2;
+    color: #fff;
 }
 
 .h2 {
     padding-left: 45px;
 
     font-family: "Lato Thin";
-    color: #D1E8E2;
+    /*color: #D1E8E2;*/
+    color: #ffffff;
 }
 
 .h3 {
     padding-left: 65px;
     font-family: "Lato Thin";
-    color: #D1E8E2;
+    /*color: #D1E8E2;*/
+    color: #ffffff;
     font-size: small;
     margin-top: -15px;
 }
@@ -47,7 +63,8 @@
     text-align:left;
     font-family: "Lato Light";
     width: 330px;
-    color: #D1E8E2;
+    /*color: #D1E8E2;*/
+    color: #ffffff;
     letter-spacing: 0.1em;
     position: absolute;
     left: 58%;

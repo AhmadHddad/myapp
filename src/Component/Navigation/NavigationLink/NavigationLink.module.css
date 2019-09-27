@@ -1,0 +1,18 @@
+
+.NavigationItem{
+    list-style: none;
+    display: inline-block;
+
+}
+
+.NavigationItem a{
+    color: #ffffff;
+    text-decoration: none;
+font-family: "Lato Light";
+    padding: 10px;
+    margin-left: 10px;
+    background-color: #1e90bc;
+    font-size: large;
+    border:1px #1a89b2 solid ;
+    border-radius: 10px;
+}

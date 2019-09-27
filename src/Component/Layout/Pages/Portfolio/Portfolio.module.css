@@ -1,0 +1,126 @@
+
+.Layout{
+    background: linear-gradient(220.9deg, #23C9FF 30.49%, #00487C 96.21%);
+    box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.11);
+    width: 672px;
+    height: 392px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+
+.h1 {
+    text-align: center;
+    font-family: "Lato Thin";
+    /*color: #D1E8E2;*/
+    color: #ffffff;
+}
+.hr0{
+    width: 20%;
+    border: solid 0.5px;
+    color: #D1E8E2;
+    margin-top: -15px;
+}
+.hr1{
+    width: 25%;
+    border: solid 0.5px;
+    color: #D1E8E2;
+    position: absolute;
+    left: -10%;
+    top: 65%;
+    transform: rotate(90deg) translate(-50%, 50%);
+}
+.hr2{
+    width: 25%;
+    border: solid 0.5px;
+    color: #D1E8E2;
+    position: absolute;
+    left: 64%;
+    top: 65%;
+    transform: rotate(90deg) translate(-50%, 50%);
+}
+.arrow1{
+    transform: rotate(180deg) translate(-50%, 50%);
+    opacity: 50%;
+    position: absolute;
+    left:1%;
+    top: 46%;
+    width: 4%;
+}
+
+.arrow2{
+    transform:  translate(-50%, 50%);
+    opacity: 50%;
+    position: absolute;
+    left:74%;
+    top: 39%;
+    width: 4%;
+}
+.square {
+    position: absolute;
+    width: 20%;
+    height: 40%;
+    left: 8.5%;
+    margin-top: 22px;
+    background: #00487C;
+    border: 0.5px solid rgba(0, 72, 124, 0.35);
+}
+.sliderImage{
+    position: absolute;
+    width: 100%;
+    height: 80%;
+}
+
+.sliderTitle{
+    position: absolute;
+    margin-left: 37%;
+    margin-top: 96%;
+    font-family: "Lato Thin";
+    color: #ffffff;
+    font-size: large;
+}
+.description{
+    position: absolute;
+    left:110%;
+    width: 200%;
+    color: white;
+    text-align: justify;
+    font-family: "Lato Light";
+    letter-spacing: 0.01em;
+    font-size: 15px;
+}
+
+.brands{
+    transform:  translate(-50%, 50%);
+    opacity: 50%;
+    position: absolute;
+    left:50%;
+    top: 75%;
+    display: flex;
+}
+
+
+.brands img{
+    width: 20px;
+    margin-left: 10px;
+
+}
+
+#portfolio {
+/*margin-top: 50px;*/
+}
+
+#layout div,  #portfolio ,.arrow1 , .arrow2, .hr1, .hr2 {
+margin-top: 4%;
+    margin-left: 8%;
+}
+
+.github{
+    position: absolute;
+    width: 30px;
+    left: 50%;
+    top: 90%;
+    opacity: 50%;
+}

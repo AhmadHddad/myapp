@@ -5,6 +5,7 @@ import myImg from '../../../../assets/me.png'
 const Profile = (props) => {
     return (
         <React.Fragment>
+            <div className={classes.Layout}>
             <h1 className={classes.h1}>PROFILE</h1>
             <hr className={classes.hr1}/>
         <img className={classes.myImg} src={myImg} alt="Me"/>
@@ -14,6 +15,7 @@ const Profile = (props) => {
             Hi, welcome to my page, I am an enthusiastic developer, I developed many projects and collaborate with others. I love working with other developers and writing clean maintainable code. Always keeping up with new technologies and improving my self. I have experience in many technologies and including front-end and back-end.
 
         </p>
+            </div>
         </React.Fragment>
     );
 };
