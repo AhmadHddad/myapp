@@ -1,0 +1,56 @@
+.myImg {
+    padding-top: 2%;
+    padding-left: 30px;
+    width: 170px;
+    height: 170px;
+}
+
+.hr1 {
+    width: 20%;
+    border: solid 0.5px;
+    color: #D1E8E2;
+    margin-top: -15px;
+}
+
+.h1 {
+    text-align: center;
+    font-family: "Lato Thin";
+    color: #D1E8E2;
+}
+
+.h2 {
+    padding-left: 45px;
+
+    font-family: "Lato Thin";
+    color: #D1E8E2;
+}
+
+.h3 {
+    padding-left: 65px;
+    font-family: "Lato Thin";
+    color: #D1E8E2;
+    font-size: small;
+    margin-top: -15px;
+}
+
+.hr2 {
+    width: 35%;
+    border: solid 0.5px;
+    color: #D1E8E2;
+    position: absolute;
+    left: 13.5%;
+    top: 80%;
+    transform: rotate(90deg) translate(-50%, -50%);
+}
+.aboutME{
+    /*text-align: justify;*/
+    text-align:left;
+    font-family: "Lato Light";
+    width: 330px;
+    color: #D1E8E2;
+    letter-spacing: 0.1em;
+    position: absolute;
+    left: 58%;
+    top:47%;
+    transform: translate(-50%, -50%);
+}
